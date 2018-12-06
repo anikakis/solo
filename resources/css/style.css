@@ -1,60 +1,16 @@
-/*Basic CSS Selectors Examples*/
+/*===========================================
+  Default Theme
+  -------------------------------------------
+  Fonts: Raleway & Open Sans
+  -------------------------------------------
+  Colors:
+    Moon Yellow:        #f4c613
+    Grey:               #212226
+    White Smoke:        #f4f4f4
+    White:              #ffffff
+    Black:              #000000
+  --------------------------------------------
+=============================================*/
 
-/*h1 {
-  color: green;
-  font-size: 45px;
-}
-
-p {
-  background-color: pink;
-  color: #fff;
-  font-size: 20px;
-}
-
-div p {
-  background-color: red;
-  color: #000;
-  font-size: 40px;
-}*/
-
-/*CSS Classes and ID's Examples*/
-
-/*#main {
-  color: pink;
-  font-size: 25px;
-}
-
-.content {
-  color: #000;
-  background-color: pink;
-  font-size: 20px;
-}*/
-
-/*CSS Box Model Example*/
-
-/*h1 {
-  width: 250px;
-  height: 50px;
-  padding: 10px 10px 10px 10px;
-  border: 5px solid green;
-  margin: 20px 10px 60px 40px;
-}*/
-
-/*CSS Positioning*/
-
-/*#parent_div {
-  width: 400px;
-  height: 400px;
-  background-color: red;
-  margin: 100px auto;
-  position: relative;
-}
-
-#child_div{
-  width: 200px;
-  height: 200px;
-  background-color: pink;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-}*/
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Open Sans', sans-serif;*/
